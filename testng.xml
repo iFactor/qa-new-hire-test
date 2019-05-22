@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Internal Sites">
+  <test name="Health Checks">
+    <classes>
+      <class name="testcases.ExampleTestPageFactory"></class>
+      <class name="testcases.ExampleTestPOM"></class>
+    </classes>
+  </test>
+</suite>
